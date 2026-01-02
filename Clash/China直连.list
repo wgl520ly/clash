@@ -1,12 +1,13 @@
 # 中国国内常见域名关键词直连
 
 DOMAIN-KEYWORD,baidu
-
+DOMAIN-KEYWORD,kp.m-team
+DOMAIN-KEYWORD,m-team
 
 # 中国国内常见域名后缀直连
 
 DOMAIN-SUFFIX,baidu.com
-
+DOMAIN-SUFFIX,m-team.cc
 
 
 

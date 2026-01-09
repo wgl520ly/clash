@@ -1,10 +1,14 @@
 # 域名关键词代理
 
-# DOMAIN-KEYWORD,fscloud
+
+ DOMAIN-KEYWORD,fscloud    # 翻墙站点
+
 
 # 域名后缀代理
 
 
-DOMAIN-SUFFIX,hjd2048.com
-DOMAIN-SUFFIX,6bb6.idsduf.com
-DOMAIN-SUFFIX,良心云.com
+
+
+DOMAIN-SUFFIX,hjd2048.com    # 2048
+DOMAIN-SUFFIX,6bb6.idsduf.com    # 翻墙站点
+DOMAIN-SUFFIX,良心云.com    # 翻墙站点
